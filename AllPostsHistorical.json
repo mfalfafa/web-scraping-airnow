@@ -1,0 +1,1437 @@
+{
+    "Abidjan": {
+        "monitors": [
+            {
+                "files": {
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Abidjan/2020/Abidjan_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Abidjan/2020/Abidjan_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Abidjan/2021/Abidjan_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Abidjan/2021/Abidjan_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Abidjan/2022/Abidjan_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Abidjan/2022/Abidjan_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "AbuDhabi": {
+        "monitors": [
+            {
+                "files": {
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AbuDhabi/2017/AbuDhabi_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/AbuDhabi/2017/AbuDhabi_PM2.5_2017_YTD.csv",
+                    "2018 OZONE MTD": "https://dosairnowdata.org/dos/historical/AbuDhabi/2018/AbuDhabi_OZONE_2018_11_MTD.csv",
+                    "2018 OZONE": "https://dosairnowdata.org/dos/historical/AbuDhabi/2018/AbuDhabi_OZONE_2018_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AbuDhabi/2018/AbuDhabi_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/AbuDhabi/2018/AbuDhabi_PM2.5_2018_YTD.csv",
+                    "2019 OZONE MTD": "https://dosairnowdata.org/dos/historical/AbuDhabi/2019/AbuDhabi_OZONE_2020_12_MTD.csv",
+                    "2019 OZONE": "https://dosairnowdata.org/dos/historical/AbuDhabi/2019/AbuDhabi_OZONE_2019_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AbuDhabi/2019/AbuDhabi_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/AbuDhabi/2019/AbuDhabi_PM2.5_2019_YTD.csv",
+                    "2020 OZONE MTD": "https://dosairnowdata.org/dos/historical/AbuDhabi/2020/AbuDhabi_OZONE_2021_12_MTD.csv",
+                    "2020 OZONE": "https://dosairnowdata.org/dos/historical/AbuDhabi/2020/AbuDhabi_OZONE_2020_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AbuDhabi/2020/AbuDhabi_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/AbuDhabi/2020/AbuDhabi_PM2.5_2020_YTD.csv",
+                    "2021 OZONE MTD": "https://dosairnowdata.org/dos/historical/AbuDhabi/2021/AbuDhabi_OZONE_2021_08_MTD.csv",
+                    "2021 OZONE": "https://dosairnowdata.org/dos/historical/AbuDhabi/2021/AbuDhabi_OZONE_2021_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AbuDhabi/2021/AbuDhabi_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/AbuDhabi/2021/AbuDhabi_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AbuDhabi/2022/AbuDhabi_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/AbuDhabi/2022/AbuDhabi_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Abuja": {
+        "monitors": [
+            {
+                "files": {
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Abuja/2021/Abuja_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Abuja/2021/Abuja_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Abuja/2022/Abuja_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Abuja/2022/Abuja_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Accra": {
+        "monitors": [
+            {
+                "files": {
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Accra/2020/Accra_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Accra/2020/Accra_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Accra/2021/Accra_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Accra/2021/Accra_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Accra/2022/Accra_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Accra/2022/Accra_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "AddisAbabaCentral": {
+        "monitors": [
+            {
+                "files": {
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AddisAbabaCentral/2016/AddisAbabaCentral_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/AddisAbabaCentral/2016/AddisAbabaCentral_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AddisAbabaCentral/2017/AddisAbabaCentral_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/AddisAbabaCentral/2017/AddisAbabaCentral_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AddisAbabaCentral/2018/AddisAbabaCentral_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/AddisAbabaCentral/2018/AddisAbabaCentral_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AddisAbabaCentral/2019/AddisAbabaCentral_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/AddisAbabaCentral/2019/AddisAbabaCentral_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AddisAbabaCentral/2020/AddisAbabaCentral_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/AddisAbabaCentral/2020/AddisAbabaCentral_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AddisAbabaCentral/2021/AddisAbabaCentral_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/AddisAbabaCentral/2021/AddisAbabaCentral_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AddisAbabaCentral/2022/AddisAbabaCentral_PM2.5_2022_05_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/AddisAbabaCentral/2022/AddisAbabaCentral_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "AddisAbabaJacros": {
+        "monitors": [
+            {
+                "files": {
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AddisAbabaJacros/2021/AddisAbabaJacros_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/AddisAbabaJacros/2021/AddisAbabaJacros_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AddisAbabaJacros/2022/AddisAbabaJacros_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/AddisAbabaJacros/2022/AddisAbabaJacros_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "AddisAbabaSchool": {
+        "monitors": [
+            {
+                "files": {
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AddisAbabaSchool/2016/AddisAbabaSchool_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/AddisAbabaSchool/2016/AddisAbabaSchool_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AddisAbabaSchool/2017/AddisAbabaSchool_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/AddisAbabaSchool/2017/AddisAbabaSchool_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AddisAbabaSchool/2018/AddisAbabaSchool_PM2.5_2018_11_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/AddisAbabaSchool/2018/AddisAbabaSchool_PM2.5_2018_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AddisAbabaSchool/2020/AddisAbabaSchool_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/AddisAbabaSchool/2020/AddisAbabaSchool_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/AddisAbabaSchool/2021/AddisAbabaSchool_PM2.5_2021_02_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/AddisAbabaSchool/2021/AddisAbabaSchool_PM2.5_2021_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Algiers": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Algiers/2019/Algiers_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Algiers/2019/Algiers_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Algiers/2020/Algiers_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Algiers/2020/Algiers_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Algiers/2021/Algiers_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Algiers/2021/Algiers_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Algiers/2022/Algiers_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Algiers/2022/Algiers_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Almaty": {
+        "monitors": [
+            {
+                "files": {
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Almaty/2020/Almaty_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Almaty/2020/Almaty_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Almaty/2021/Almaty_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Almaty/2021/Almaty_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Almaty/2022/Almaty_PM2.5_2022_05_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Almaty/2022/Almaty_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Amman": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Amman/2019/Amman_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Amman/2019/Amman_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Amman/2020/Amman_PM2.5_2020_11_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Amman/2020/Amman_PM2.5_2020_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Antananarivo": {
+        "monitors": [
+            {
+                "files": {
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Antananarivo/2020/Antananarivo_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Antananarivo/2020/Antananarivo_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Antananarivo/2021/Antananarivo_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Antananarivo/2021/Antananarivo_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Antananarivo/2022/Antananarivo_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Antananarivo/2022/Antananarivo_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Ashgabat": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Ashgabat/2019/Ashgabat_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Ashgabat/2019/Ashgabat_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Ashgabat/2020/Ashgabat_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Ashgabat/2020/Ashgabat_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Ashgabat/2021/Ashgabat_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Ashgabat/2021/Ashgabat_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Ashgabat/2022/Ashgabat_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Ashgabat/2022/Ashgabat_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Astana": {
+        "monitors": [
+            {
+                "files": {
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Astana/2018/Astana_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Astana/2018/Astana_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Astana/2019/Astana_PM2.5_2019_11_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Astana/2019/Astana_PM2.5_2019_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Baghdad": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Baghdad/2019/Baghdad_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Baghdad/2019/Baghdad_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Baghdad/2020/Baghdad_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Baghdad/2020/Baghdad_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Baghdad/2021/Baghdad_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Baghdad/2021/Baghdad_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Baghdad/2022/Baghdad_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Baghdad/2022/Baghdad_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Baku": {
+        "monitors": [
+            {
+                "files": {
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Baku/2022/Baku_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Baku/2022/Baku_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Bamako": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Bamako/2019/Bamako_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Bamako/2019/Bamako_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Bamako/2020/Bamako_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Bamako/2020/Bamako_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Bamako/2021/Bamako_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Bamako/2021/Bamako_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Bamako/2022/Bamako_PM2.5_2022_01_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Bamako/2022/Bamako_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "BanjaLuka": {
+        "monitors": [
+            {
+                "files": {
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/BanjaLuka/2021/BanjaLuka_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/BanjaLuka/2021/BanjaLuka_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/BanjaLuka/2022/BanjaLuka_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/BanjaLuka/2022/BanjaLuka_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Beijing": {
+        "monitors": [
+            {
+                "files": {
+                    "2008 PM2.5": "https://dosairnowdata.org/dos/historical/Beijing/2008/Beijing_PM2.5_2008_YTD.csv",
+                    "2009 PM2.5": "https://dosairnowdata.org/dos/historical/Beijing/2009/Beijing_PM2.5_2009_YTD.csv",
+                    "2010 OZONE": "https://dosairnowdata.org/dos/historical/Beijing/2010/Beijing_OZONE_2010_YTD.csv",
+                    "2010 PM2.5": "https://dosairnowdata.org/dos/historical/Beijing/2010/Beijing_PM2.5_2010_YTD.csv",
+                    "2011 OZONE": "https://dosairnowdata.org/dos/historical/Beijing/2011/Beijing_OZONE_2011_YTD.csv",
+                    "2011 PM2.5": "https://dosairnowdata.org/dos/historical/Beijing/2011/Beijing_PM2.5_2011_YTD.csv",
+                    "2012 OZONE": "https://dosairnowdata.org/dos/historical/Beijing/2012/Beijing_OZONE_2012_YTD.csv",
+                    "2012 PM2.5": "https://dosairnowdata.org/dos/historical/Beijing/2012/Beijing_PM2.5_2012_YTD.csv",
+                    "2013 OZONE": "https://dosairnowdata.org/dos/historical/Beijing/2013/Beijing_OZONE_2013_YTD.csv",
+                    "2013 PM2.5": "https://dosairnowdata.org/dos/historical/Beijing/2013/Beijing_PM2.5_2013_YTD.csv",
+                    "2014 OZONE": "https://dosairnowdata.org/dos/historical/Beijing/2014/Beijing_OZONE_2014_YTD.csv",
+                    "2014 PM2.5": "https://dosairnowdata.org/dos/historical/Beijing/2014/Beijing_PM2.5_2014_YTD.csv",
+                    "2015 OZONE": "https://dosairnowdata.org/dos/historical/Beijing/2015/Beijing_OZONE_2015_YTD.csv",
+                    "2015 PM2.5": "https://dosairnowdata.org/dos/historical/Beijing/2015/Beijing_PM2.5_2015_YTD.csv",
+                    "2016 OZONE": "https://dosairnowdata.org/dos/historical/Beijing/2016/Beijing_OZONE_2016_YTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/Beijing/2016/Beijing_PM2.5_2016_YTD.csv",
+                    "2017 OZONE MTD": "https://dosairnowdata.org/dos/historical/Beijing/2017/Beijing_OZONE_2018_12_MTD.csv",
+                    "2017 OZONE": "https://dosairnowdata.org/dos/historical/Beijing/2017/Beijing_OZONE_2017_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Beijing/2017/Beijing_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Beijing/2017/Beijing_PM2.5_2017_YTD.csv",
+                    "2018 OZONE MTD": "https://dosairnowdata.org/dos/historical/Beijing/2018/Beijing_OZONE_2019_12_MTD.csv",
+                    "2018 OZONE": "https://dosairnowdata.org/dos/historical/Beijing/2018/Beijing_OZONE_2018_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Beijing/2018/Beijing_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Beijing/2018/Beijing_PM2.5_2018_YTD.csv",
+                    "2019 OZONE MTD": "https://dosairnowdata.org/dos/historical/Beijing/2019/Beijing_OZONE_2020_12_MTD.csv",
+                    "2019 OZONE": "https://dosairnowdata.org/dos/historical/Beijing/2019/Beijing_OZONE_2019_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Beijing/2019/Beijing_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Beijing/2019/Beijing_PM2.5_2019_YTD.csv",
+                    "2020 OZONE MTD": "https://dosairnowdata.org/dos/historical/Beijing/2020/Beijing_OZONE_2021_12_MTD.csv",
+                    "2020 OZONE": "https://dosairnowdata.org/dos/historical/Beijing/2020/Beijing_OZONE_2020_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Beijing/2020/Beijing_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Beijing/2020/Beijing_PM2.5_2020_YTD.csv",
+                    "2021 OZONE MTD": "https://dosairnowdata.org/dos/historical/Beijing/2021/Beijing_OZONE_2022_12_MTD.csv",
+                    "2021 OZONE": "https://dosairnowdata.org/dos/historical/Beijing/2021/Beijing_OZONE_2021_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Beijing/2021/Beijing_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Beijing/2021/Beijing_PM2.5_2021_YTD.csv",
+                    "2022 OZONE MTD": "https://dosairnowdata.org/dos/historical/Beijing/2022/Beijing_OZONE_2022_06_MTD.csv",
+                    "2022 OZONE YTD": "https://dosairnowdata.org/dos/historical/Beijing/2022/Beijing_OZONE_2022_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Beijing/2022/Beijing_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Beijing/2022/Beijing_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Bishkek": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Bishkek/2019/Bishkek_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Bishkek/2019/Bishkek_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Bishkek/2020/Bishkek_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Bishkek/2020/Bishkek_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Bishkek/2021/Bishkek_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Bishkek/2021/Bishkek_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Bishkek/2022/Bishkek_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Bishkek/2022/Bishkek_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Bogota": {
+        "monitors": [
+            {
+                "files": {
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Bogota/2016/Bogota_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/Bogota/2016/Bogota_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Bogota/2017/Bogota_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Bogota/2017/Bogota_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Bogota/2018/Bogota_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Bogota/2018/Bogota_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Bogota/2019/Bogota_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Bogota/2019/Bogota_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Bogota/2020/Bogota_PM2.5_2020_11_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Bogota/2020/Bogota_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Bogota/2021/Bogota_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Bogota/2021/Bogota_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Bogota/2022/Bogota_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Bogota/2022/Bogota_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "BuenosAires": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/BuenosAires/2019/BuenosAires_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/BuenosAires/2019/BuenosAires_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/BuenosAires/2020/BuenosAires_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/BuenosAires/2020/BuenosAires_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/BuenosAires/2021/BuenosAires_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/BuenosAires/2021/BuenosAires_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/BuenosAires/2022/BuenosAires_PM2.5_2022_03_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/BuenosAires/2022/BuenosAires_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Cairo": {
+        "monitors": [
+            {
+                "files": {
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Cairo/2022/Cairo_PM2.5_2022_06_MTD.csv"
+                }
+            }
+        ]
+    },
+    "Chengdu": {
+        "monitors": [
+            {
+                "files": {
+                    "2012 PM2.5": "https://dosairnowdata.org/dos/historical/Chengdu/2012/Chengdu_PM2.5_2012_YTD.csv",
+                    "2013 PM2.5": "https://dosairnowdata.org/dos/historical/Chengdu/2013/Chengdu_PM2.5_2013_YTD.csv",
+                    "2014 PM2.5": "https://dosairnowdata.org/dos/historical/Chengdu/2014/Chengdu_PM2.5_2014_YTD.csv",
+                    "2015 PM2.5": "https://dosairnowdata.org/dos/historical/Chengdu/2015/Chengdu_PM2.5_2015_YTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/Chengdu/2016/Chengdu_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Chengdu/2017/Chengdu_PM2.5_2017_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Chengdu/2017/Chengdu_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Chengdu/2018/Chengdu_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Chengdu/2018/Chengdu_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Chengdu/2019/Chengdu_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Chengdu/2019/Chengdu_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Chengdu/2020/Chengdu_PM2.5_2020_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Chennai": {
+        "monitors": [
+            {
+                "files": {
+                    "2015 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Chennai/2015/Chennai_PM2.5_2015_12_MTD.csv",
+                    "2015 PM2.5": "https://dosairnowdata.org/dos/historical/Chennai/2015/Chennai_PM2.5_2015_YTD.csv",
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Chennai/2016/Chennai_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/Chennai/2016/Chennai_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Chennai/2017/Chennai_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Chennai/2017/Chennai_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Chennai/2018/Chennai_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Chennai/2018/Chennai_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Chennai/2019/Chennai_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Chennai/2019/Chennai_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Chennai/2020/Chennai_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Chennai/2020/Chennai_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Chennai/2021/Chennai_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Chennai/2021/Chennai_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Chennai/2022/Chennai_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Chennai/2022/Chennai_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Chisinau": {
+        "monitors": [
+            {
+                "files": {
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Chisinau/2022/Chisinau_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Chisinau/2022/Chisinau_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Colombo": {
+        "monitors": [
+            {
+                "files": {
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Colombo/2017/Colombo_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Colombo/2017/Colombo_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Colombo/2018/Colombo_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Colombo/2018/Colombo_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Colombo/2019/Colombo_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Colombo/2019/Colombo_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Colombo/2020/Colombo_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Colombo/2020/Colombo_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Colombo/2021/Colombo_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Colombo/2021/Colombo_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Colombo/2022/Colombo_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Colombo/2022/Colombo_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Conakry": {
+        "monitors": [
+            {
+                "files": {
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Conakry/2020/Conakry_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Conakry/2020/Conakry_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Conakry/2021/Conakry_PM2.5_2021_06_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Conakry/2021/Conakry_PM2.5_2021_YTD.csv"
+                }
+            }
+        ]
+    },
+    "CostaRica": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/CostaRica/2019/CostaRica_PM2.5_2019_10_MTD.csv"
+                }
+            }
+        ]
+    },
+    "Curacao": {
+        "monitors": [
+            {
+                "files": {
+                    "2018 OZONE MTD": "https://dosairnowdata.org/dos/historical/Curacao/2018/Curacao_OZONE_2019_12_MTD.csv",
+                    "2018 OZONE": "https://dosairnowdata.org/dos/historical/Curacao/2018/Curacao_OZONE_2018_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Curacao/2018/Curacao_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Curacao/2018/Curacao_PM2.5_2018_YTD.csv",
+                    "2019 OZONE MTD": "https://dosairnowdata.org/dos/historical/Curacao/2019/Curacao_OZONE_2019_06_MTD.csv",
+                    "2019 OZONE": "https://dosairnowdata.org/dos/historical/Curacao/2019/Curacao_OZONE_2019_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Curacao/2019/Curacao_PM2.5_2019_06_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Curacao/2019/Curacao_PM2.5_2019_YTD.csv",
+                    "2020 OZONE MTD": "https://dosairnowdata.org/dos/historical/Curacao/2020/Curacao_OZONE_2021_12_MTD.csv",
+                    "2020 OZONE": "https://dosairnowdata.org/dos/historical/Curacao/2020/Curacao_OZONE_2020_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Curacao/2020/Curacao_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Curacao/2020/Curacao_PM2.5_2020_YTD.csv",
+                    "2021 OZONE MTD": "https://dosairnowdata.org/dos/historical/Curacao/2021/Curacao_OZONE_2021_09_MTD.csv",
+                    "2021 OZONE": "https://dosairnowdata.org/dos/historical/Curacao/2021/Curacao_OZONE_2021_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Curacao/2021/Curacao_PM2.5_2021_09_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Curacao/2021/Curacao_PM2.5_2021_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Dakar": {
+        "monitors": [
+            {
+                "files": {
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dakar/2022/Dakar_PM2.5_2022_06_MTD.csv"
+                }
+            }
+        ]
+    },
+    "Dhahran": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dhahran/2019/Dhahran_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Dhahran/2019/Dhahran_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dhahran/2020/Dhahran_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Dhahran/2020/Dhahran_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dhahran/2021/Dhahran_PM2.5_2021_07_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Dhahran/2021/Dhahran_PM2.5_2021_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Dhaka": {
+        "monitors": [
+            {
+                "files": {
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dhaka/2016/Dhaka_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/Dhaka/2016/Dhaka_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dhaka/2017/Dhaka_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Dhaka/2017/Dhaka_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dhaka/2018/Dhaka_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Dhaka/2018/Dhaka_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dhaka/2019/Dhaka_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Dhaka/2019/Dhaka_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dhaka/2020/Dhaka_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Dhaka/2020/Dhaka_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dhaka/2021/Dhaka_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Dhaka/2021/Dhaka_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dhaka/2022/Dhaka_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Dhaka/2022/Dhaka_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Doha": {
+        "monitors": [
+            {
+                "files": {
+                    "2022 OZONE MTD": "https://dosairnowdata.org/dos/historical/Doha/2022/Doha_OZONE_2022_06_MTD.csv",
+                    "2022 OZONE YTD": "https://dosairnowdata.org/dos/historical/Doha/2022/Doha_OZONE_2022_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Doha/2022/Doha_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Doha/2022/Doha_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Dubai": {
+        "monitors": [
+            {
+                "files": {
+                    "2016 OZONE": "https://dosairnowdata.org/dos/historical/Dubai/2016/Dubai_OZONE_2016_YTD.csv",
+                    "2017 OZONE MTD": "https://dosairnowdata.org/dos/historical/Dubai/2017/Dubai_OZONE_2017_12_MTD.csv",
+                    "2017 OZONE": "https://dosairnowdata.org/dos/historical/Dubai/2017/Dubai_OZONE_2017_YTD.csv",
+                    "2018 OZONE MTD": "https://dosairnowdata.org/dos/historical/Dubai/2018/Dubai_OZONE_2019_12_MTD.csv",
+                    "2018 OZONE": "https://dosairnowdata.org/dos/historical/Dubai/2018/Dubai_OZONE_2018_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dubai/2018/Dubai_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Dubai/2018/Dubai_PM2.5_2018_YTD.csv",
+                    "2019 OZONE MTD": "https://dosairnowdata.org/dos/historical/Dubai/2019/Dubai_OZONE_2020_12_MTD.csv",
+                    "2019 OZONE": "https://dosairnowdata.org/dos/historical/Dubai/2019/Dubai_OZONE_2019_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dubai/2019/Dubai_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Dubai/2019/Dubai_PM2.5_2019_YTD.csv",
+                    "2020 OZONE MTD": "https://dosairnowdata.org/dos/historical/Dubai/2020/Dubai_OZONE_2021_12_MTD.csv",
+                    "2020 OZONE": "https://dosairnowdata.org/dos/historical/Dubai/2020/Dubai_OZONE_2020_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dubai/2020/Dubai_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Dubai/2020/Dubai_PM2.5_2020_YTD.csv",
+                    "2021 OZONE MTD": "https://dosairnowdata.org/dos/historical/Dubai/2021/Dubai_OZONE_2021_03_MTD.csv",
+                    "2021 OZONE": "https://dosairnowdata.org/dos/historical/Dubai/2021/Dubai_OZONE_2021_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dubai/2021/Dubai_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Dubai/2021/Dubai_PM2.5_2021_YTD.csv",
+                    "2022 OZONE MTD": "https://dosairnowdata.org/dos/historical/Dubai/2022/Dubai_OZONE_2022_06_MTD.csv",
+                    "2022 OZONE YTD": "https://dosairnowdata.org/dos/historical/Dubai/2022/Dubai_OZONE_2022_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dubai/2022/Dubai_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Dubai/2022/Dubai_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Dushanbe": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dushanbe/2019/Dushanbe_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Dushanbe/2019/Dushanbe_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dushanbe/2020/Dushanbe_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Dushanbe/2020/Dushanbe_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dushanbe/2021/Dushanbe_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Dushanbe/2021/Dushanbe_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Dushanbe/2022/Dushanbe_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Dushanbe/2022/Dushanbe_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "EmbassyKathmandu": {
+        "monitors": [
+            {
+                "files": {
+                    "2017 OZONE MTD": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2017/EmbassyKathmandu_OZONE_2018_12_MTD.csv",
+                    "2017 OZONE": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2017/EmbassyKathmandu_OZONE_2017_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2017/EmbassyKathmandu_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2017/EmbassyKathmandu_PM2.5_2017_YTD.csv",
+                    "2018 OZONE MTD": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2018/EmbassyKathmandu_OZONE_2019_12_MTD.csv",
+                    "2018 OZONE": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2018/EmbassyKathmandu_OZONE_2018_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2018/EmbassyKathmandu_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2018/EmbassyKathmandu_PM2.5_2018_YTD.csv",
+                    "2019 OZONE MTD": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2019/EmbassyKathmandu_OZONE_2020_12_MTD.csv",
+                    "2019 OZONE": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2019/EmbassyKathmandu_OZONE_2019_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2019/EmbassyKathmandu_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2019/EmbassyKathmandu_PM2.5_2019_YTD.csv",
+                    "2020 OZONE MTD": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2020/EmbassyKathmandu_OZONE_2021_12_MTD.csv",
+                    "2020 OZONE": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2020/EmbassyKathmandu_OZONE_2020_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2020/EmbassyKathmandu_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2020/EmbassyKathmandu_PM2.5_2020_YTD.csv",
+                    "2021 OZONE MTD": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2021/EmbassyKathmandu_OZONE_2021_09_MTD.csv",
+                    "2021 OZONE": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2021/EmbassyKathmandu_OZONE_2021_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2021/EmbassyKathmandu_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2021/EmbassyKathmandu_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2022/EmbassyKathmandu_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/EmbassyKathmandu/2022/EmbassyKathmandu_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Guangzhou": {
+        "monitors": [
+            {
+                "files": {
+                    "2011 PM2.5": "https://dosairnowdata.org/dos/historical/Guangzhou/2011/Guangzhou_PM2.5_2011_YTD.csv",
+                    "2012 PM2.5": "https://dosairnowdata.org/dos/historical/Guangzhou/2012/Guangzhou_PM2.5_2012_YTD.csv",
+                    "2013 PM2.5": "https://dosairnowdata.org/dos/historical/Guangzhou/2013/Guangzhou_PM2.5_2013_YTD.csv",
+                    "2014 OZONE": "https://dosairnowdata.org/dos/historical/Guangzhou/2014/Guangzhou_OZONE_2014_YTD.csv",
+                    "2014 PM2.5": "https://dosairnowdata.org/dos/historical/Guangzhou/2014/Guangzhou_PM2.5_2014_YTD.csv",
+                    "2015 OZONE": "https://dosairnowdata.org/dos/historical/Guangzhou/2015/Guangzhou_OZONE_2015_YTD.csv",
+                    "2015 PM2.5": "https://dosairnowdata.org/dos/historical/Guangzhou/2015/Guangzhou_PM2.5_2015_YTD.csv",
+                    "2016 OZONE": "https://dosairnowdata.org/dos/historical/Guangzhou/2016/Guangzhou_OZONE_2016_YTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/Guangzhou/2016/Guangzhou_PM2.5_2016_YTD.csv",
+                    "2017 OZONE MTD": "https://dosairnowdata.org/dos/historical/Guangzhou/2017/Guangzhou_OZONE_2018_12_MTD.csv",
+                    "2017 OZONE": "https://dosairnowdata.org/dos/historical/Guangzhou/2017/Guangzhou_OZONE_2017_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Guangzhou/2017/Guangzhou_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Guangzhou/2017/Guangzhou_PM2.5_2017_YTD.csv",
+                    "2018 OZONE MTD": "https://dosairnowdata.org/dos/historical/Guangzhou/2018/Guangzhou_OZONE_2019_12_MTD.csv",
+                    "2018 OZONE": "https://dosairnowdata.org/dos/historical/Guangzhou/2018/Guangzhou_OZONE_2018_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Guangzhou/2018/Guangzhou_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Guangzhou/2018/Guangzhou_PM2.5_2018_YTD.csv",
+                    "2019 OZONE MTD": "https://dosairnowdata.org/dos/historical/Guangzhou/2019/Guangzhou_OZONE_2019_01_MTD.csv",
+                    "2019 OZONE": "https://dosairnowdata.org/dos/historical/Guangzhou/2019/Guangzhou_OZONE_2019_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Guangzhou/2019/Guangzhou_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Guangzhou/2019/Guangzhou_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Guangzhou/2020/Guangzhou_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Guangzhou/2020/Guangzhou_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Guangzhou/2021/Guangzhou_PM2.5_2021_07_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Guangzhou/2021/Guangzhou_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Guangzhou/2022/Guangzhou_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Guangzhou/2022/Guangzhou_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "GuatemalaCity": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/GuatemalaCity/2019/GuatemalaCity_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/GuatemalaCity/2019/GuatemalaCity_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/GuatemalaCity/2020/GuatemalaCity_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/GuatemalaCity/2020/GuatemalaCity_PM2.5_2020_YTD.csv",
+                    "2021 OZONE MTD": "https://dosairnowdata.org/dos/historical/GuatemalaCity/2021/GuatemalaCity_OZONE_2022_12_MTD.csv",
+                    "2021 OZONE": "https://dosairnowdata.org/dos/historical/GuatemalaCity/2021/GuatemalaCity_OZONE_2021_YTD.csv",
+                    "2021 PM10 MTD": "https://dosairnowdata.org/dos/historical/GuatemalaCity/2021/GuatemalaCity_PM10_2022_12_MTD.csv",
+                    "2021 PM10": "https://dosairnowdata.org/dos/historical/GuatemalaCity/2021/GuatemalaCity_PM10_2021_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/GuatemalaCity/2021/GuatemalaCity_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/GuatemalaCity/2021/GuatemalaCity_PM2.5_2021_YTD.csv",
+                    "2022 OZONE MTD": "https://dosairnowdata.org/dos/historical/GuatemalaCity/2022/GuatemalaCity_OZONE_2022_06_MTD.csv",
+                    "2022 OZONE YTD": "https://dosairnowdata.org/dos/historical/GuatemalaCity/2022/GuatemalaCity_OZONE_2022_YTD.csv",
+                    "2022 PM10 MTD": "https://dosairnowdata.org/dos/historical/GuatemalaCity/2022/GuatemalaCity_PM10_2022_06_MTD.csv",
+                    "2022 PM10 YTD": "https://dosairnowdata.org/dos/historical/GuatemalaCity/2022/GuatemalaCity_PM10_2022_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/GuatemalaCity/2022/GuatemalaCity_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/GuatemalaCity/2022/GuatemalaCity_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Hanoi": {
+        "monitors": [
+            {
+                "files": {
+                    "2015 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Hanoi/2015/Hanoi_PM2.5_2015_12_MTD.csv",
+                    "2015 PM2.5": "https://dosairnowdata.org/dos/historical/Hanoi/2015/Hanoi_PM2.5_2015_YTD.csv",
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Hanoi/2016/Hanoi_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/Hanoi/2016/Hanoi_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Hanoi/2017/Hanoi_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Hanoi/2017/Hanoi_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Hanoi/2018/Hanoi_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Hanoi/2018/Hanoi_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Hanoi/2019/Hanoi_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Hanoi/2019/Hanoi_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Hanoi/2020/Hanoi_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Hanoi/2020/Hanoi_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Hanoi/2021/Hanoi_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Hanoi/2021/Hanoi_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Hanoi/2022/Hanoi_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Hanoi/2022/Hanoi_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "HoChiMinhCity": {
+        "monitors": [
+            {
+                "files": {
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/HoChiMinhCity/2016/HoChiMinhCity_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/HoChiMinhCity/2016/HoChiMinhCity_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/HoChiMinhCity/2017/HoChiMinhCity_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/HoChiMinhCity/2017/HoChiMinhCity_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/HoChiMinhCity/2018/HoChiMinhCity_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/HoChiMinhCity/2018/HoChiMinhCity_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/HoChiMinhCity/2019/HoChiMinhCity_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/HoChiMinhCity/2019/HoChiMinhCity_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/HoChiMinhCity/2020/HoChiMinhCity_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/HoChiMinhCity/2020/HoChiMinhCity_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/HoChiMinhCity/2021/HoChiMinhCity_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/HoChiMinhCity/2021/HoChiMinhCity_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/HoChiMinhCity/2022/HoChiMinhCity_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/HoChiMinhCity/2022/HoChiMinhCity_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Hyderabad": {
+        "monitors": [
+            {
+                "files": {
+                    "2015 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Hyderabad/2015/Hyderabad_PM2.5_2015_12_MTD.csv",
+                    "2015 PM2.5": "https://dosairnowdata.org/dos/historical/Hyderabad/2015/Hyderabad_PM2.5_2015_YTD.csv",
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Hyderabad/2016/Hyderabad_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/Hyderabad/2016/Hyderabad_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Hyderabad/2017/Hyderabad_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Hyderabad/2017/Hyderabad_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Hyderabad/2018/Hyderabad_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Hyderabad/2018/Hyderabad_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Hyderabad/2019/Hyderabad_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Hyderabad/2019/Hyderabad_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Hyderabad/2020/Hyderabad_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Hyderabad/2020/Hyderabad_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Hyderabad/2021/Hyderabad_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Hyderabad/2021/Hyderabad_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Hyderabad/2022/Hyderabad_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Hyderabad/2022/Hyderabad_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Islamabad": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Islamabad/2019/Islamabad_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Islamabad/2019/Islamabad_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Islamabad/2020/Islamabad_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Islamabad/2020/Islamabad_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Islamabad/2021/Islamabad_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Islamabad/2021/Islamabad_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Islamabad/2022/Islamabad_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Islamabad/2022/Islamabad_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "JakartaCentral": {
+        "monitors": [
+            {
+                "files": {
+                    "2015 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/JakartaCentral/2015/JakartaCentral_PM2.5_2015_12_MTD.csv",
+                    "2015 PM2.5": "https://dosairnowdata.org/dos/historical/JakartaCentral/2015/JakartaCentral_PM2.5_2015_YTD.csv",
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/JakartaCentral/2016/JakartaCentral_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/JakartaCentral/2016/JakartaCentral_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/JakartaCentral/2017/JakartaCentral_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/JakartaCentral/2017/JakartaCentral_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/JakartaCentral/2018/JakartaCentral_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/JakartaCentral/2018/JakartaCentral_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/JakartaCentral/2019/JakartaCentral_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/JakartaCentral/2019/JakartaCentral_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/JakartaCentral/2020/JakartaCentral_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/JakartaCentral/2020/JakartaCentral_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/JakartaCentral/2021/JakartaCentral_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/JakartaCentral/2021/JakartaCentral_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/JakartaCentral/2022/JakartaCentral_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/JakartaCentral/2022/JakartaCentral_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "JakartaSouth": {
+        "monitors": [
+            {
+                "files": {
+                    "2015 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/JakartaSouth/2015/JakartaSouth_PM2.5_2015_12_MTD.csv",
+                    "2015 PM2.5": "https://dosairnowdata.org/dos/historical/JakartaSouth/2015/JakartaSouth_PM2.5_2015_YTD.csv",
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/JakartaSouth/2016/JakartaSouth_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/JakartaSouth/2016/JakartaSouth_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/JakartaSouth/2017/JakartaSouth_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/JakartaSouth/2017/JakartaSouth_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/JakartaSouth/2018/JakartaSouth_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/JakartaSouth/2018/JakartaSouth_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/JakartaSouth/2019/JakartaSouth_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/JakartaSouth/2019/JakartaSouth_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/JakartaSouth/2020/JakartaSouth_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/JakartaSouth/2020/JakartaSouth_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/JakartaSouth/2021/JakartaSouth_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/JakartaSouth/2021/JakartaSouth_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/JakartaSouth/2022/JakartaSouth_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/JakartaSouth/2022/JakartaSouth_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Jeddah": {
+        "monitors": [
+            {
+                "files": {
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Jeddah/2020/Jeddah_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Jeddah/2020/Jeddah_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Jeddah/2021/Jeddah_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Jeddah/2021/Jeddah_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Jeddah/2022/Jeddah_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Jeddah/2022/Jeddah_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Kabul": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kabul/2019/Kabul_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Kabul/2019/Kabul_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kabul/2020/Kabul_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Kabul/2020/Kabul_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kabul/2021/Kabul_PM2.5_2021_08_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Kabul/2021/Kabul_PM2.5_2021_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Kampala": {
+        "monitors": [
+            {
+                "files": {
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kampala/2017/Kampala_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Kampala/2017/Kampala_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kampala/2018/Kampala_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Kampala/2018/Kampala_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kampala/2019/Kampala_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Kampala/2019/Kampala_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kampala/2020/Kampala_PM2.5_2020_11_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Kampala/2020/Kampala_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kampala/2021/Kampala_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Kampala/2021/Kampala_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kampala/2022/Kampala_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Kampala/2022/Kampala_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Karachi": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Karachi/2019/Karachi_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Karachi/2019/Karachi_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Karachi/2020/Karachi_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Karachi/2020/Karachi_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Karachi/2021/Karachi_PM2.5_2021_11_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Karachi/2021/Karachi_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Karachi/2022/Karachi_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Karachi/2022/Karachi_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Kathmandu": {
+        "monitors": [
+            {
+                "files": {
+                    "2017 OZONE MTD": "https://dosairnowdata.org/dos/historical/Kathmandu/2017/Kathmandu_OZONE_2017_03_MTD.csv",
+                    "2017 OZONE": "https://dosairnowdata.org/dos/historical/Kathmandu/2017/Kathmandu_OZONE_2017_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kathmandu/2017/Kathmandu_PM2.5_2017_03_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Kathmandu/2017/Kathmandu_PM2.5_2017_YTD.csv"
+                }
+            }
+        ]
+    },
+    "KhartoumEmbassy": {
+        "monitors": [
+            {
+                "files": {
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/KhartoumEmbassy/2020/KhartoumEmbassy_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/KhartoumEmbassy/2020/KhartoumEmbassy_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/KhartoumEmbassy/2021/KhartoumEmbassy_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/KhartoumEmbassy/2021/KhartoumEmbassy_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/KhartoumEmbassy/2022/KhartoumEmbassy_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/KhartoumEmbassy/2022/KhartoumEmbassy_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "KhartoumResidential": {
+        "monitors": [
+            {
+                "files": {
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/KhartoumResidential/2020/KhartoumResidential_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/KhartoumResidential/2020/KhartoumResidential_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/KhartoumResidential/2021/KhartoumResidential_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/KhartoumResidential/2021/KhartoumResidential_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/KhartoumResidential/2022/KhartoumResidential_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/KhartoumResidential/2022/KhartoumResidential_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Kigali": {
+        "monitors": [
+            {
+                "files": {
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kigali/2022/Kigali_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Kigali/2022/Kigali_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Kinshasa": {
+        "monitors": [
+            {
+                "files": {
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kinshasa/2022/Kinshasa_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Kinshasa/2022/Kinshasa_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Kolkata": {
+        "monitors": [
+            {
+                "files": {
+                    "2015 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kolkata/2015/Kolkata_PM2.5_2015_12_MTD.csv",
+                    "2015 PM2.5": "https://dosairnowdata.org/dos/historical/Kolkata/2015/Kolkata_PM2.5_2015_YTD.csv",
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kolkata/2016/Kolkata_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/Kolkata/2016/Kolkata_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kolkata/2017/Kolkata_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Kolkata/2017/Kolkata_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kolkata/2018/Kolkata_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Kolkata/2018/Kolkata_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kolkata/2019/Kolkata_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Kolkata/2019/Kolkata_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kolkata/2020/Kolkata_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Kolkata/2020/Kolkata_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kolkata/2021/Kolkata_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Kolkata/2021/Kolkata_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Kolkata/2022/Kolkata_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Kolkata/2022/Kolkata_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "KuwaitCity": {
+        "monitors": [
+            {
+                "files": {
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/KuwaitCity/2017/KuwaitCity_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/KuwaitCity/2017/KuwaitCity_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/KuwaitCity/2018/KuwaitCity_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/KuwaitCity/2018/KuwaitCity_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/KuwaitCity/2019/KuwaitCity_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/KuwaitCity/2019/KuwaitCity_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/KuwaitCity/2020/KuwaitCity_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/KuwaitCity/2020/KuwaitCity_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/KuwaitCity/2021/KuwaitCity_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/KuwaitCity/2021/KuwaitCity_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/KuwaitCity/2022/KuwaitCity_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/KuwaitCity/2022/KuwaitCity_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Lagos": {
+        "monitors": [
+            {
+                "files": {
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Lagos/2021/Lagos_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Lagos/2021/Lagos_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Lagos/2022/Lagos_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Lagos/2022/Lagos_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Lahore": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Lahore/2019/Lahore_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Lahore/2019/Lahore_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Lahore/2020/Lahore_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Lahore/2020/Lahore_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Lahore/2021/Lahore_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Lahore/2021/Lahore_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Lahore/2022/Lahore_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Lahore/2022/Lahore_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Libreville": {
+        "monitors": [
+            {
+                "files": {
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Libreville/2021/Libreville_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Libreville/2021/Libreville_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Libreville/2022/Libreville_PM2.5_2022_03_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Libreville/2022/Libreville_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Lima": {
+        "monitors": [
+            {
+                "files": {
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Lima/2016/Lima_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/Lima/2016/Lima_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Lima/2017/Lima_PM2.5_2017_09_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Lima/2017/Lima_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Lima/2018/Lima_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Lima/2018/Lima_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Lima/2019/Lima_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Lima/2019/Lima_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Lima/2020/Lima_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Lima/2020/Lima_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Lima/2021/Lima_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Lima/2021/Lima_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Lima/2022/Lima_PM2.5_2022_05_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Lima/2022/Lima_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Manama": {
+        "monitors": [
+            {
+                "files": {
+                    "2016 OZONE": "https://dosairnowdata.org/dos/historical/Manama/2016/Manama_OZONE_2016_YTD.csv",
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Manama/2016/Manama_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/Manama/2016/Manama_PM2.5_2016_YTD.csv",
+                    "2017 OZONE MTD": "https://dosairnowdata.org/dos/historical/Manama/2017/Manama_OZONE_2018_12_MTD.csv",
+                    "2017 OZONE": "https://dosairnowdata.org/dos/historical/Manama/2017/Manama_OZONE_2017_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Manama/2017/Manama_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Manama/2017/Manama_PM2.5_2017_YTD.csv",
+                    "2018 OZONE MTD": "https://dosairnowdata.org/dos/historical/Manama/2018/Manama_OZONE_2018_08_MTD.csv",
+                    "2018 OZONE": "https://dosairnowdata.org/dos/historical/Manama/2018/Manama_OZONE_2018_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Manama/2018/Manama_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Manama/2018/Manama_PM2.5_2018_YTD.csv",
+                    "2019 OZONE MTD": "https://dosairnowdata.org/dos/historical/Manama/2019/Manama_OZONE_2020_12_MTD.csv",
+                    "2019 OZONE": "https://dosairnowdata.org/dos/historical/Manama/2019/Manama_OZONE_2019_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Manama/2019/Manama_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Manama/2019/Manama_PM2.5_2019_YTD.csv",
+                    "2020 OZONE MTD": "https://dosairnowdata.org/dos/historical/Manama/2020/Manama_OZONE_2021_12_MTD.csv",
+                    "2020 OZONE": "https://dosairnowdata.org/dos/historical/Manama/2020/Manama_OZONE_2020_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Manama/2020/Manama_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Manama/2020/Manama_PM2.5_2020_YTD.csv",
+                    "2021 OZONE MTD": "https://dosairnowdata.org/dos/historical/Manama/2021/Manama_OZONE_2021_03_MTD.csv",
+                    "2021 OZONE": "https://dosairnowdata.org/dos/historical/Manama/2021/Manama_OZONE_2021_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Manama/2021/Manama_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Manama/2021/Manama_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Manama/2022/Manama_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Manama/2022/Manama_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Mumbai": {
+        "monitors": [
+            {
+                "files": {
+                    "2015 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Mumbai/2015/Mumbai_PM2.5_2015_12_MTD.csv",
+                    "2015 PM2.5": "https://dosairnowdata.org/dos/historical/Mumbai/2015/Mumbai_PM2.5_2015_YTD.csv",
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Mumbai/2016/Mumbai_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/Mumbai/2016/Mumbai_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Mumbai/2017/Mumbai_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Mumbai/2017/Mumbai_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Mumbai/2018/Mumbai_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Mumbai/2018/Mumbai_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Mumbai/2019/Mumbai_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Mumbai/2019/Mumbai_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Mumbai/2020/Mumbai_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Mumbai/2020/Mumbai_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Mumbai/2021/Mumbai_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Mumbai/2021/Mumbai_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Mumbai/2022/Mumbai_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Mumbai/2022/Mumbai_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Nairobi": {
+        "monitors": [
+            {
+                "files": {
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Nairobi/2021/Nairobi_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Nairobi/2021/Nairobi_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Nairobi/2022/Nairobi_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Nairobi/2022/Nairobi_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "NDjamena": {
+        "monitors": [
+            {
+                "files": {
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/NDjamena/2020/NDjamena_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/NDjamena/2020/NDjamena_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/NDjamena/2021/NDjamena_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/NDjamena/2021/NDjamena_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/NDjamena/2022/NDjamena_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/NDjamena/2022/NDjamena_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "NewDelhi": {
+        "monitors": [
+            {
+                "files": {
+                    "2015 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/NewDelhi/2015/NewDelhi_PM2.5_2015_12_MTD.csv",
+                    "2015 PM2.5": "https://dosairnowdata.org/dos/historical/NewDelhi/2015/NewDelhi_PM2.5_2015_YTD.csv",
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/NewDelhi/2016/NewDelhi_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/NewDelhi/2016/NewDelhi_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/NewDelhi/2017/NewDelhi_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/NewDelhi/2017/NewDelhi_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/NewDelhi/2018/NewDelhi_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/NewDelhi/2018/NewDelhi_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/NewDelhi/2019/NewDelhi_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/NewDelhi/2019/NewDelhi_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/NewDelhi/2020/NewDelhi_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/NewDelhi/2020/NewDelhi_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/NewDelhi/2021/NewDelhi_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/NewDelhi/2021/NewDelhi_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/NewDelhi/2022/NewDelhi_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/NewDelhi/2022/NewDelhi_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Nur-Sultan": {
+        "monitors": [
+            {
+                "files": {
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Nur-Sultan/2018/Nur-Sultan_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Nur-Sultan/2018/Nur-Sultan_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Nur-Sultan/2019/Nur-Sultan_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Nur-Sultan/2019/Nur-Sultan_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Nur-Sultan/2020/Nur-Sultan_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Nur-Sultan/2020/Nur-Sultan_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Nur-Sultan/2021/Nur-Sultan_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Nur-Sultan/2021/Nur-Sultan_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Nur-Sultan/2022/Nur-Sultan_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Nur-Sultan/2022/Nur-Sultan_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Peshawar": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Peshawar/2019/Peshawar_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Peshawar/2019/Peshawar_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Peshawar/2020/Peshawar_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Peshawar/2020/Peshawar_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Peshawar/2021/Peshawar_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Peshawar/2021/Peshawar_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Peshawar/2022/Peshawar_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Peshawar/2022/Peshawar_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "PhoraDurbarKathmandu": {
+        "monitors": [
+            {
+                "files": {
+                    "2017 OZONE MTD": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2017/PhoraDurbarKathmandu_OZONE_2018_12_MTD.csv",
+                    "2017 OZONE": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2017/PhoraDurbarKathmandu_OZONE_2017_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2017/PhoraDurbarKathmandu_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2017/PhoraDurbarKathmandu_PM2.5_2017_YTD.csv",
+                    "2018 OZONE MTD": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2018/PhoraDurbarKathmandu_OZONE_2019_12_MTD.csv",
+                    "2018 OZONE": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2018/PhoraDurbarKathmandu_OZONE_2018_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2018/PhoraDurbarKathmandu_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2018/PhoraDurbarKathmandu_PM2.5_2018_YTD.csv",
+                    "2019 OZONE MTD": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2019/PhoraDurbarKathmandu_OZONE_2020_12_MTD.csv",
+                    "2019 OZONE": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2019/PhoraDurbarKathmandu_OZONE_2019_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2019/PhoraDurbarKathmandu_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2019/PhoraDurbarKathmandu_PM2.5_2019_YTD.csv",
+                    "2020 OZONE MTD": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2020/PhoraDurbarKathmandu_OZONE_2021_12_MTD.csv",
+                    "2020 OZONE": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2020/PhoraDurbarKathmandu_OZONE_2020_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2020/PhoraDurbarKathmandu_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2020/PhoraDurbarKathmandu_PM2.5_2020_YTD.csv",
+                    "2021 OZONE MTD": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2021/PhoraDurbarKathmandu_OZONE_2022_12_MTD.csv",
+                    "2021 OZONE": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2021/PhoraDurbarKathmandu_OZONE_2021_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2021/PhoraDurbarKathmandu_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2021/PhoraDurbarKathmandu_PM2.5_2021_YTD.csv",
+                    "2022 OZONE MTD": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2022/PhoraDurbarKathmandu_OZONE_2022_06_MTD.csv",
+                    "2022 OZONE YTD": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2022/PhoraDurbarKathmandu_OZONE_2022_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2022/PhoraDurbarKathmandu_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/PhoraDurbarKathmandu/2022/PhoraDurbarKathmandu_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Pristina": {
+        "monitors": [
+            {
+                "files": {
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Pristina/2016/Pristina_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/Pristina/2016/Pristina_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Pristina/2017/Pristina_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Pristina/2017/Pristina_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Pristina/2018/Pristina_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Pristina/2018/Pristina_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Pristina/2019/Pristina_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Pristina/2019/Pristina_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Pristina/2020/Pristina_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Pristina/2020/Pristina_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Pristina/2021/Pristina_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Pristina/2021/Pristina_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Pristina/2022/Pristina_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Pristina/2022/Pristina_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Rangoon": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 OZONE MTD": "https://dosairnowdata.org/dos/historical/Rangoon/2019/Rangoon_OZONE_2020_12_MTD.csv",
+                    "2019 OZONE": "https://dosairnowdata.org/dos/historical/Rangoon/2019/Rangoon_OZONE_2019_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Rangoon/2019/Rangoon_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Rangoon/2019/Rangoon_PM2.5_2019_YTD.csv",
+                    "2020 OZONE MTD": "https://dosairnowdata.org/dos/historical/Rangoon/2020/Rangoon_OZONE_2021_12_MTD.csv",
+                    "2020 OZONE": "https://dosairnowdata.org/dos/historical/Rangoon/2020/Rangoon_OZONE_2020_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Rangoon/2020/Rangoon_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Rangoon/2020/Rangoon_PM2.5_2020_YTD.csv",
+                    "2021 OZONE MTD": "https://dosairnowdata.org/dos/historical/Rangoon/2021/Rangoon_OZONE_2021_03_MTD.csv",
+                    "2021 OZONE": "https://dosairnowdata.org/dos/historical/Rangoon/2021/Rangoon_OZONE_2021_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Rangoon/2021/Rangoon_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Rangoon/2021/Rangoon_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Rangoon/2022/Rangoon_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Rangoon/2022/Rangoon_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Riyadh": {
+        "monitors": [
+            {
+                "files": {
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Riyadh/2020/Riyadh_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Riyadh/2021/Riyadh_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Riyadh/2021/Riyadh_PM2.5_2021_YTD.csv"
+                }
+            }
+        ]
+    },
+    "SanJose": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/SanJose/2019/SanJose_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/SanJose/2019/SanJose_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/SanJose/2020/SanJose_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/SanJose/2020/SanJose_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/SanJose/2021/SanJose_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/SanJose/2021/SanJose_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/SanJose/2022/SanJose_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/SanJose/2022/SanJose_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Sarajevo": {
+        "monitors": [
+            {
+                "files": {
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Sarajevo/2018/Sarajevo_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Sarajevo/2018/Sarajevo_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Sarajevo/2019/Sarajevo_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Sarajevo/2019/Sarajevo_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Sarajevo/2020/Sarajevo_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Sarajevo/2020/Sarajevo_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Sarajevo/2021/Sarajevo_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Sarajevo/2021/Sarajevo_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Sarajevo/2022/Sarajevo_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Sarajevo/2022/Sarajevo_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Shanghai": {
+        "monitors": [
+            {
+                "files": {
+                    "2011 PM2.5": "https://dosairnowdata.org/dos/historical/Shanghai/2011/Shanghai_PM2.5_2011_YTD.csv",
+                    "2012 PM2.5": "https://dosairnowdata.org/dos/historical/Shanghai/2012/Shanghai_PM2.5_2012_YTD.csv",
+                    "2013 PM2.5": "https://dosairnowdata.org/dos/historical/Shanghai/2013/Shanghai_PM2.5_2013_YTD.csv",
+                    "2014 PM2.5": "https://dosairnowdata.org/dos/historical/Shanghai/2014/Shanghai_PM2.5_2014_YTD.csv",
+                    "2015 PM2.5": "https://dosairnowdata.org/dos/historical/Shanghai/2015/Shanghai_PM2.5_2015_YTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/Shanghai/2016/Shanghai_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Shanghai/2017/Shanghai_PM2.5_2017_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Shanghai/2017/Shanghai_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Shanghai/2018/Shanghai_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Shanghai/2018/Shanghai_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Shanghai/2019/Shanghai_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Shanghai/2019/Shanghai_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Shanghai/2020/Shanghai_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Shanghai/2020/Shanghai_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Shanghai/2021/Shanghai_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Shanghai/2021/Shanghai_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Shanghai/2022/Shanghai_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Shanghai/2022/Shanghai_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Shenyang": {
+        "monitors": [
+            {
+                "files": {
+                    "2013 PM2.5": "https://dosairnowdata.org/dos/historical/Shenyang/2013/Shenyang_PM2.5_2013_YTD.csv",
+                    "2014 PM2.5": "https://dosairnowdata.org/dos/historical/Shenyang/2014/Shenyang_PM2.5_2014_YTD.csv",
+                    "2015 PM2.5": "https://dosairnowdata.org/dos/historical/Shenyang/2015/Shenyang_PM2.5_2015_YTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/Shenyang/2016/Shenyang_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Shenyang/2017/Shenyang_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Shenyang/2017/Shenyang_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Shenyang/2018/Shenyang_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Shenyang/2018/Shenyang_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Shenyang/2019/Shenyang_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Shenyang/2019/Shenyang_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Shenyang/2020/Shenyang_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Shenyang/2020/Shenyang_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Shenyang/2021/Shenyang_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Shenyang/2021/Shenyang_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Shenyang/2022/Shenyang_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Shenyang/2022/Shenyang_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Tashkent": {
+        "monitors": [
+            {
+                "files": {
+                    "2018 OZONE MTD": "https://dosairnowdata.org/dos/historical/Tashkent/2018/Tashkent_OZONE_2019_12_MTD.csv",
+                    "2018 OZONE": "https://dosairnowdata.org/dos/historical/Tashkent/2018/Tashkent_OZONE_2018_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Tashkent/2018/Tashkent_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Tashkent/2018/Tashkent_PM2.5_2018_YTD.csv",
+                    "2019 OZONE MTD": "https://dosairnowdata.org/dos/historical/Tashkent/2019/Tashkent_OZONE_2020_12_MTD.csv",
+                    "2019 OZONE": "https://dosairnowdata.org/dos/historical/Tashkent/2019/Tashkent_OZONE_2019_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Tashkent/2019/Tashkent_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Tashkent/2019/Tashkent_PM2.5_2019_YTD.csv",
+                    "2020 OZONE MTD": "https://dosairnowdata.org/dos/historical/Tashkent/2020/Tashkent_OZONE_2021_12_MTD.csv",
+                    "2020 OZONE": "https://dosairnowdata.org/dos/historical/Tashkent/2020/Tashkent_OZONE_2020_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Tashkent/2020/Tashkent_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Tashkent/2020/Tashkent_PM2.5_2020_YTD.csv",
+                    "2021 OZONE MTD": "https://dosairnowdata.org/dos/historical/Tashkent/2021/Tashkent_OZONE_2021_06_MTD.csv",
+                    "2021 OZONE": "https://dosairnowdata.org/dos/historical/Tashkent/2021/Tashkent_OZONE_2021_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Tashkent/2021/Tashkent_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Tashkent/2021/Tashkent_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Tashkent/2022/Tashkent_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Tashkent/2022/Tashkent_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Tijuana": {
+        "monitors": [
+            {
+                "files": {
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Tijuana/2021/Tijuana_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Tijuana/2021/Tijuana_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Tijuana/2022/Tijuana_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Tijuana/2022/Tijuana_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Ulaanbaatar": {
+        "monitors": [
+            {
+                "files": {
+                    "2015 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Ulaanbaatar/2015/Ulaanbaatar_PM2.5_2015_12_MTD.csv",
+                    "2015 PM2.5": "https://dosairnowdata.org/dos/historical/Ulaanbaatar/2015/Ulaanbaatar_PM2.5_2015_YTD.csv",
+                    "2016 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Ulaanbaatar/2016/Ulaanbaatar_PM2.5_2016_12_MTD.csv",
+                    "2016 PM2.5": "https://dosairnowdata.org/dos/historical/Ulaanbaatar/2016/Ulaanbaatar_PM2.5_2016_YTD.csv",
+                    "2017 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Ulaanbaatar/2017/Ulaanbaatar_PM2.5_2018_12_MTD.csv",
+                    "2017 PM2.5": "https://dosairnowdata.org/dos/historical/Ulaanbaatar/2017/Ulaanbaatar_PM2.5_2017_YTD.csv",
+                    "2018 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Ulaanbaatar/2018/Ulaanbaatar_PM2.5_2019_12_MTD.csv",
+                    "2018 PM2.5": "https://dosairnowdata.org/dos/historical/Ulaanbaatar/2018/Ulaanbaatar_PM2.5_2018_YTD.csv",
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Ulaanbaatar/2019/Ulaanbaatar_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Ulaanbaatar/2019/Ulaanbaatar_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Ulaanbaatar/2020/Ulaanbaatar_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Ulaanbaatar/2020/Ulaanbaatar_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Ulaanbaatar/2021/Ulaanbaatar_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Ulaanbaatar/2021/Ulaanbaatar_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Ulaanbaatar/2022/Ulaanbaatar_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Ulaanbaatar/2022/Ulaanbaatar_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    },
+    "Vientiane": {
+        "monitors": [
+            {
+                "files": {
+                    "2019 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Vientiane/2019/Vientiane_PM2.5_2020_12_MTD.csv",
+                    "2019 PM2.5": "https://dosairnowdata.org/dos/historical/Vientiane/2019/Vientiane_PM2.5_2019_YTD.csv",
+                    "2020 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Vientiane/2020/Vientiane_PM2.5_2021_12_MTD.csv",
+                    "2020 PM2.5": "https://dosairnowdata.org/dos/historical/Vientiane/2020/Vientiane_PM2.5_2020_YTD.csv",
+                    "2021 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Vientiane/2021/Vientiane_PM2.5_2022_12_MTD.csv",
+                    "2021 PM2.5": "https://dosairnowdata.org/dos/historical/Vientiane/2021/Vientiane_PM2.5_2021_YTD.csv",
+                    "2022 PM2.5 MTD": "https://dosairnowdata.org/dos/historical/Vientiane/2022/Vientiane_PM2.5_2022_06_MTD.csv",
+                    "2022 PM2.5 YTD": "https://dosairnowdata.org/dos/historical/Vientiane/2022/Vientiane_PM2.5_2022_YTD.csv"
+                }
+            }
+        ]
+    }
+}
